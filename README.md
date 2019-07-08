@@ -12,6 +12,9 @@ This  is a simple application that allows you to add ,upvote or downvote,and del
 ##Installation
 * Fork my work on the repository.
 * Git clone the work
+* Run ng serve
+
+##Live Demo    https://jeremicarose.github.io/Quotes/.
 
 ## Development server
 
