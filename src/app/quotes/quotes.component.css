@@ -2,5 +2,6 @@ h1{
     font-weight: bolder;
     text-transform: uppercase;
     color: darkcyan;
-    text-decoration: none
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
 }
