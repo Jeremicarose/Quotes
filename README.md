@@ -10,7 +10,7 @@ This  is a simple application that allows you to add ,upvote or downvote,and del
 * Delete
 
 ##Installation
-*
+* Fork my work on the repository.
 
 ## Development server
 
