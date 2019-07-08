@@ -16,6 +16,11 @@ This  is a simple application that allows you to add ,upvote or downvote,and del
 
 ##Live Demo    https://jeremicarose.github.io/Quotes/.
 
+##Technology used 
+* Angular
+* HTML
+* CSS
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
