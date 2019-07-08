@@ -11,6 +11,7 @@ This  is a simple application that allows you to add ,upvote or downvote,and del
 
 ##Installation
 * Fork my work on the repository.
+* Git clone the work
 
 ## Development server
 
