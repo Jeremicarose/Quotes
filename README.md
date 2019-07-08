@@ -1,6 +1,16 @@
 # Quotes
+By Jeremic Arose.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
+##Description 
+This  is a simple application that allows you to add ,upvote or downvote,and delete the quotes.
+
+##User requrments
+* Add quotes
+* vote
+* Delete
+
+##Installation
+*
 
 ## Development server
 
